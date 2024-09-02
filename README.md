@@ -20,6 +20,7 @@ Try to predict "is_hazardous" as accurately as possible! (otherwise we will not 
   
   6- Train the model and explore the results and accuracy 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 The main notices that is found while exploring the data that there existed 2-highly correlated feature so I had to drop one of them 
 
