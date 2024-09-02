@@ -9,10 +9,15 @@ Try to predict "is_hazardous" as accurately as possible! (otherwise we will not 
 
 # The Main Steps of the process are :
   1- Loading and exploring the data 
+  
   2- Exploratory Data Analysis
+  
   3- Data Preprocessing 
+  
   4- Splitting the data into train and test 
+  
   5- Building the model 
+  
   6- Train the model and explore the results and accuracy 
 
 
